@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings
+console.properties
+settings/
+
+bin/
+Libs/
+Reports/
+Materials/
+Storage/
